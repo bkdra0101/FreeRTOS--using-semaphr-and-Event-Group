@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/Espressif/frameworks/esp-idf-v4.4.3/examples/get-started/project/esp32-esp-idf-main/I2C_LCD_ESP_idf/build/CMakeFiles/bootloader
+E:/Espressif/frameworks/esp-idf-v4.4.3/examples/get-started/project/esp32-esp-idf-main/I2C_LCD_ESP_idf/build/CMakeFiles/bootloader.rule
+E:/Espressif/frameworks/esp-idf-v4.4.3/examples/get-started/project/esp32-esp-idf-main/I2C_LCD_ESP_idf/build/CMakeFiles/bootloader-complete.rule
+E:/Espressif/frameworks/esp-idf-v4.4.3/examples/get-started/project/esp32-esp-idf-main/I2C_LCD_ESP_idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/Espressif/frameworks/esp-idf-v4.4.3/examples/get-started/project/esp32-esp-idf-main/I2C_LCD_ESP_idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/Espressif/frameworks/esp-idf-v4.4.3/examples/get-started/project/esp32-esp-idf-main/I2C_LCD_ESP_idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/Espressif/frameworks/esp-idf-v4.4.3/examples/get-started/project/esp32-esp-idf-main/I2C_LCD_ESP_idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/Espressif/frameworks/esp-idf-v4.4.3/examples/get-started/project/esp32-esp-idf-main/I2C_LCD_ESP_idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/Espressif/frameworks/esp-idf-v4.4.3/examples/get-started/project/esp32-esp-idf-main/I2C_LCD_ESP_idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/Espressif/frameworks/esp-idf-v4.4.3/examples/get-started/project/esp32-esp-idf-main/I2C_LCD_ESP_idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
